@@ -18,17 +18,22 @@ This is a pretty straightforward project:
 
 ## Screenshots
 
-<p align="center">Account overview</p>
+<div align="center"><em>Account overview</em></div><br>
+
 ![Account overview](./assets/1.png)
 
-<p align="center">Connect bank accounts</p>
+<div align="center"><em>Connect bank accounts</em></div><br>
+
 ![Connect bank accounts](./assets/2.png)
 
-<p align="center">Linking UI</p>
+<div align="center"><em>Linking UI</em></div><br>
+
 ![Linking UI](./assets/3.png)
 
-<p align="center">Manual CSV importing</p>
+<div align="center"><em>Manual CSV importing</em></div><br>
+
 ![Manual CSV importing](./assets/4.png)
 
-<p align="center">Some preliminary work towards data visualisation</p>
+<div align="center"><em>Some preliminary work towards data visualisation</em></div><br>
+
 ![Some preliminary work towards data visualisation](./assets/5.png)
